@@ -5,16 +5,16 @@
     <test name="Regression">
         <groups>
             <run>
-                <exclude name="Smoke"/>
+                <exclude name ="Smoke"/>
             </run>
         </groups>
-        <classes>
-            <class name="test.day1"/>
-            <class name="test.day2"/>
-            <class name="test.day4"/>
-            <class name="test.day3"/>
-
-        </classes>
-    </test>
+    <classes>
+      <class name="test.day1"/>
+      <class name="test.day2"/>
+      <class name ="test.day4"/>
+        <class name="test.day3"/>
+      
+    </classes>
+  </test> 
 
 </suite> 
