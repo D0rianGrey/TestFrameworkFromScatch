@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Part_1_TestNG</module>
+        <module>Part_2_Global_Environmental_Variables</module>
     </modules>
 
     <dependencies>
