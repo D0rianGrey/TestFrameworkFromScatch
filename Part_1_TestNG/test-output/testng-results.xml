@@ -5,7 +5,7 @@
   <suite started-at="2019-08-28T00:38:26 EEST" name="Loan Department" finished-at="2019-08-28T00:38:26 EEST" duration-ms="122">
     <groups>
       <group name="Smoke">
-        <method signature="day2.ploan()[pri:0, instance:test.day2@3ecd23d9]" name="ploan" class="test.day2"/>
+        <method signature="TestBase.ploan()[pri:0, instance:test.TestBase@3ecd23d9]" name="ploan" class="test.TestBase"/>
         <method signature="day4.MobileLoginHomeLoan()[pri:0, instance:test.day4@33723e30]" name="MobileLoginHomeLoan" class="test.day4"/>
         <method signature="day3.MobileLogincarLoan()[pri:0, instance:test.day3@2641e737]" name="MobileLogincarLoan" class="test.day3"/>
       </group> <!-- Smoke -->
@@ -162,16 +162,16 @@
           </reporter-output>
         </test-method> <!-- WebloginHomeLoan -->
       </class> <!-- test.day4 -->
-      <class name="test.day2">
-        <test-method is-config="true" signature="prerequiste()[pri:0, instance:test.day2@3ecd23d9]" started-at="2019-08-28T00:38:26 EEST" name="prerequiste" finished-at="2019-08-28T00:38:26 EEST" duration-ms="2" status="PASS">
+      <class name="test.TestBase">
+        <test-method is-config="true" signature="prerequiste()[pri:0, instance:test.TestBase@3ecd23d9]" started-at="2019-08-28T00:38:26 EEST" name="prerequiste" finished-at="2019-08-28T00:38:26 EEST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- prerequiste -->
-        <test-method signature="ploan()[pri:0, instance:test.day2@3ecd23d9]" started-at="2019-08-28T00:38:26 EEST" name="ploan" finished-at="2019-08-28T00:38:26 EEST" duration-ms="1" status="PASS">
+        <test-method signature="ploan()[pri:0, instance:test.TestBase@3ecd23d9]" started-at="2019-08-28T00:38:26 EEST" name="ploan" finished-at="2019-08-28T00:38:26 EEST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ploan -->
-      </class> <!-- test.day2 -->
+      </class> <!-- test.TestBase -->
       <class name="test.day1">
         <test-method signature="Demo()[pri:0, instance:test.day1@43bd930a]" started-at="2019-08-28T00:38:26 EEST" name="Demo" finished-at="2019-08-28T00:38:26 EEST" duration-ms="5" status="FAIL">
           <exception class="java.lang.AssertionError">

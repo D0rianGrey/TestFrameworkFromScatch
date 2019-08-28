@@ -16,7 +16,7 @@
 
 
             </class>
-            <class name="test.day2"/>
+            <class name="test.TestBase"/>
             <class name="test.day4"/>
 
         </classes>
