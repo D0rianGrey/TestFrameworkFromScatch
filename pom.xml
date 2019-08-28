@@ -11,6 +11,7 @@
     <modules>
         <module>Part_1_TestNG</module>
         <module>Part_2_Global_Environmental_Variables</module>
+        <module>Part_3_Maven_Build_Management</module>
     </modules>
 
     <dependencies>
