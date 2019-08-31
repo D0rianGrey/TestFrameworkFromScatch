@@ -12,15 +12,30 @@
         <module>Part_1_TestNG</module>
         <module>Part_2_Global_Environmental_Variables</module>
         <module>Part_3_Maven_Build_Management</module>
+        <module>Part_4_Jenkins_Continious_Integration</module>
     </modules>
+
 
     <build>
         <pluginManagement>
             <plugins>
+
+
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-compiler-plugin</artifactId>
+                    <configuration>
+                        <source>12</source>
+                        <target>12</target>
+                    </configuration>
+
+                </plugin>
+
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-surefire-plugin</artifactId>
                     <version>3.0.0-M3</version>
+
                 </plugin>
             </plugins>
         </pluginManagement>
@@ -40,10 +55,6 @@
             <artifactId>testng</artifactId>
             <version>7.0.0</version>
         </dependency>
-
-
-
-
 
 
     </dependencies>

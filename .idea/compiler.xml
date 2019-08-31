@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Part_1_TestNG" />
+        <module name="Part_4_Jenkins_Continious_Integration" />
         <module name="Part_2_Global_Environmental_Variables" />
         <module name="Part_3_Maven_Build_Management" />
       </profile>

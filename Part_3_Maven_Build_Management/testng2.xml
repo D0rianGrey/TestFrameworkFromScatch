@@ -3,8 +3,9 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="qaclickacademy.qaclickacademy.SeleniumTest"/>
-      <class name="qaclickacademy.qaclickacademy.RESTAPITest"/>
+      <class name="qaclickacademy.SeleniumTest"/>
+      <class name="qaclickacademy.RESTAPITest"/>
+       <class name="qaclickacademy.AppiumTest"/>
   
     </classes>
   </test> <!-- Test -->
