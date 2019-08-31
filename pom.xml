@@ -13,6 +13,10 @@
         <module>Part_2_Global_Environmental_Variables</module>
         <module>Part_3_Maven_Build_Management</module>
         <module>Part_4_Jenkins_Continious_Integration</module>
+        <module>Part_5_TestNG_Reports_Jenkins</module>
+        <module>Part_6_Excel_Data_Driven_Testing_Utilities</module>
+        <module>Part_7_Logging_Framework_Log4j</module>
+        <module>Part_8_Page_Object_Pattern_Page_Factory</module>
     </modules>
 
 

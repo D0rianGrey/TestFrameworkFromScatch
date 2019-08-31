@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Part_7_Logging_Framework_Log4j" />
+        <module name="Part_8_Page_Object_Pattern_Page_Factory" />
+        <module name="Part_5_TestNG_Reports_Jenkins" />
+        <module name="Part_3_Maven_Build_Management" />
+        <module name="Part_2_Global_Environmental_Variables" />
         <module name="Part_1_TestNG" />
         <module name="Part_4_Jenkins_Continious_Integration" />
-        <module name="Part_2_Global_Environmental_Variables" />
-        <module name="Part_3_Maven_Build_Management" />
+        <module name="Part_6_Excel_Data_Driven_Testing_Utilities" />
       </profile>
     </annotationProcessing>
   </component>
