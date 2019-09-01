@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Part_1_TestNG/Part_1_TestNG.iml" filepath="$PROJECT_DIR$/Part_1_TestNG/Part_1_TestNG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part_2_Global_Environmental_Variables/Part_2_Global_Environmental_Variables.iml" filepath="$PROJECT_DIR$/Part_2_Global_Environmental_Variables/Part_2_Global_Environmental_Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part_3_Maven_Build_Management/Part_3_Maven_Build_Management.iml" filepath="$PROJECT_DIR$/Part_3_Maven_Build_Management/Part_3_Maven_Build_Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part_4_Jenkins_Continious_Integration/Part_4_Jenkins_Continious_Integration.iml" filepath="$PROJECT_DIR$/Part_4_Jenkins_Continious_Integration/Part_4_Jenkins_Continious_Integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part_5_TestNG_Reports_Jenkins/Part_5_TestNG_Reports_Jenkins.iml" filepath="$PROJECT_DIR$/Part_5_TestNG_Reports_Jenkins/Part_5_TestNG_Reports_Jenkins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part_6_Excel_Data_Driven_Testing_Utilities/Part_6_Excel_Data_Driven_Testing_Utilities.iml" filepath="$PROJECT_DIR$/Part_6_Excel_Data_Driven_Testing_Utilities/Part_6_Excel_Data_Driven_Testing_Utilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part_7_Logging_Framework_Log4j/Part_7_Logging_Framework_Log4j.iml" filepath="$PROJECT_DIR$/Part_7_Logging_Framework_Log4j/Part_7_Logging_Framework_Log4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part_8_Page_Object_Pattern_Page_Factory/Part_8_Page_Object_Pattern_Page_Factory.iml" filepath="$PROJECT_DIR$/Part_8_Page_Object_Pattern_Page_Factory/Part_8_Page_Object_Pattern_Page_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TestFrameworkFromScatch.iml" filepath="$PROJECT_DIR$/.idea/TestFrameworkFromScatch.iml" />
+    </modules>
+  </component>
+</project>

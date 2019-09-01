@@ -1,0 +1,4 @@
+21:39:31.888 [main] DEBUG alpha.Demo_1 - I have clicked on button
+21:39:31.912 [main] INFO  alpha.Demo_1 - Button is displayed
+21:39:31.913 [main] ERROR alpha.Demo_1 - Button is not displayed 
+21:39:31.919 [main] FATAL alpha.Demo_1 - button is missing
